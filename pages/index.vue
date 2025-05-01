@@ -1,5 +1,8 @@
 <!--HOME PAGE-->
 <template>
+  <div>
+    
+  </div>
     <div>
       <h1>Welcome to Mood Track!</h1>
       <!-- <h2>Keep track of your moods and look back at your history</h2> -->
@@ -25,6 +28,7 @@
     </div>
   </template>
   <script setup>
+
   // You can add any setup code for this page here
   </script>
   
