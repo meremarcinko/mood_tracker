@@ -36,12 +36,13 @@
   h1 {
     color: #7c12e6 ;
     text-align: center;
-    font-family: Garamond, serif;
-    font-style: italic;
-    font-variant: small-caps;
+    font-family: "Old Standard II", serif;
+    /* font-style: italic; */
+    /* font-variant: small-caps; */
+    font-style: normal;
     margin-top: 75px;
     font-size: 50px;
-    font-weight: bold;
+    /* font-weight: bold; */
   }
 
   h2{
@@ -65,6 +66,7 @@
     margin-left: 150px;
     margin-right: 150px;
     max-width: 800px;
+    font-family: "Old Standard II", serif;
   }
   /* .button {
     background-color: #2222e0;
